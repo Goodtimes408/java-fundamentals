@@ -1,7 +1,7 @@
 # Java Fundamentals
-## Project which practices on fudamentals Java concepts
+## Project which practices on fundamentals Java concepts
 
-*Default Structure for A Basic Project*
+*Practicing on Java structure*
 
 **Java 7**
 
